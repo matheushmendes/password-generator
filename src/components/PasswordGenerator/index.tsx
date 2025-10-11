@@ -24,7 +24,7 @@ const PasswordGenerator = () => {
         <img src={passwordGif} alt="Password Gif" />
       </div>
       <div className="tac">
-        <h2 className="title">PASSWORD GENERATOR</h2>
+        <h2 className="title">GERADOR DE SENHA</h2>
         <p className="subtitle">
           Ensure online account safety by creating strong and secure passwords
         </p>
