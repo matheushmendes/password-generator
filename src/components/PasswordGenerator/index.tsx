@@ -1,7 +1,7 @@
 import Slider from 'rc-slider'
 import 'rc-slider/assets/index.css'
-import { useEffect, useState } from 'react'
-import { CopyToClipboard } from 'react-copy-to-clipboard'
+import {  useState } from 'react'
+//import { CopyToClipboard } from 'react-copy-to-clipboard'
 
 import Checkbox from '../Checkbox'
 
